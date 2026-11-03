@@ -12,4 +12,4 @@ SAP-adressen er angitt i `href` på lenken med klassen `launch`.
 Alle parametrene i den oppgitte adressen er bevart.
 
 Widgetens utseende og lenkemål er kontrollert lokalt. Innlogging og navigasjon inne i SAP er ikke testet.
-Prosjektet er privat og GitHub Pages er ikke aktivert.
+Prosjektet er offentlig. GitHub Pages: https://terjefjeldberg.github.io/sap-snarvei-widget/
